@@ -1,7 +1,7 @@
 
 package t06_String;
 import java.util.Scanner;
-public class ELLt04e01i {
+public class e01i_parseoHexadecimal_Int {
     /*i. Convertir la cadena de entrada a una variable de tipo int, suponiendo que dicha cadena
     es un número hexadecimal, esto es, contiene solo dígitos decimales (del 0 a 9) y letras de
     la A a F.*/

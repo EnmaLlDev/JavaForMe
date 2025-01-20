@@ -1,7 +1,7 @@
 
 package t06_String;
 import java.util.Scanner;
-public class ELLt04e01k {
+public class e01k_Compara_PrimeraUltimaPosicion {
     /*k. Decir si la primera posición de la cadena es igual a la última.*/
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);

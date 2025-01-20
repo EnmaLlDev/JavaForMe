@@ -5,11 +5,12 @@ public class e_01_SumaNumerosArray {
          int[] arreglo_Enteros = {1,2,3,4,5,6};
          int acumulador=0;
         
+         //Recorrido FOR EACH
          for (int entero:arreglo_Enteros){
              System.out.println("Numero:"+entero);
              acumulador += entero;
          }
-         System.out.println("El resultado de la suma es: "+acumulador);
+         System.out.println("El resultado de la suma es: "+acumulador);  
         
-    }          
+    }        
 }
